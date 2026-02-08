@@ -41,11 +41,11 @@ const gaoshunpeng = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaoshunpeng&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://stats.zhheo.com/github/api?username=gaoshunpeng&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaoshunpeng&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://stats.zhheo.com/github/api/top-langs/?username=gaoshunpeng&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=gaoshunpeng&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gaoshunpeng&theme=radical&hide_border=true)
 
 </div>
 
@@ -88,7 +88,7 @@ const gaoshunpeng = {
 
 ### ⭐ 如果这个 README 对你有帮助，欢迎 Star！
 
-![Visitor Count](https://profile-counter.glitch.me/gaoshunpeng/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gaoshunpeng.gaoshunpeng)
 
 **感谢你的访问！** 🙏
 
