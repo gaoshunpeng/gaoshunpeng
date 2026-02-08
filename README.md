@@ -41,9 +41,7 @@ const gaoshunpeng = {
 
 <div align="center">
 
-![GitHub Stats](https://stats.zhheo.com/github/api?username=gaoshunpeng&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![Top Langs](https://stats.zhheo.com/github/api/top-langs/?username=gaoshunpeng&layout=compact&theme=radical&hide_border=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gaoshunpeng&theme=radical&no-frame=true&margin-w=20&column=4)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gaoshunpeng&theme=radical&hide_border=true)
 
